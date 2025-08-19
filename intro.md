@@ -10,3 +10,8 @@ I have a strong foundation in the following programming languages:
 I also have hands-on knowledge in the following frameworks:
 - **Spring Boot**
 - **Django**
+
+Projects:
+Expense Tracker
+Blood Donation Application
+Hospital Management System
